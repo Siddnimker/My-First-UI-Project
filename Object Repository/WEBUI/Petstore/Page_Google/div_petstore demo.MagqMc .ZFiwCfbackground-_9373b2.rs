@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_petstore demo.MagqMc .ZFiwCfbackground-_9373b2</name>
+   <tag></tag>
+   <elementGuidId>af4bcf29-ce91-45ee-b973-06aaacbabcc4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.sbct.sbhl > div.eIPGRd > div.pcTkSc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Alh6id']/div/div/ul/li[4]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>62659b57-61f3-4331-b1be-754a23b30283</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pcTkSc</value>
+      <webElementGuid>6e839dfa-4303-49a5-9ae3-3812549a299e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>petstore demo.MagqMc .ZFiwCf{background-color:#fff;border:1px solid #dadce0;width:100%}.MagqMc.U48fD{padding:0;margin-top:16px}.MagqMc .Bi9oQd{display:none}.MagqMc{padding:0}.MagqMc:hover .LGwnxb{color:#202124}.sOmPcf .ZFiwCf{background-color:#fafafa}.U48fD{-webkit-tap-highlight-color:transparent;cursor:pointer;display:block;line-height:18px;text-overflow:ellipsis;white-space:nowrap;padding:16px;padding-top:0;margin-top:24px;position:relative}.U48fD.df13ud{margin-top:16px}.U48fD.TOQyFc{margin-top:0}.U48fD.p8FEIf{padding-bottom:0}.jRKCUd::before{bottom:12px;content:'';left:16px;position:absolute;right:16px;top:-4px}a.jRKCUd:hover{text-decoration:none}.ZFiwCf{display:flex;align-items:center;justify-content:center;position:relative;margin:0 auto;font-size:14px;font-family:arial,sans-serif;font-weight:400;width:300px;height:36px;border-radius:18px;background-color:#f1f3f4}.TQc1id .ZFiwCf{width:unset}.ZFiwCf:hover{background-color:#fafafa}.Bi9oQd{background-color:#dadce0;margin-top:18px;position:absolute;border:0;height:1px;left:0;width:100%}.TQc1id .Bi9oQd{display:none}.kC8B4e .Bi9oQd{display:none}.w2fKdd svg{width:auto}.w2fKdd{color:#70757a}.LGwnxb{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:auto;padding-left:0;padding-right:8px;max-width:200px;color:#202124}.LGwnxb:empty{padding-right:0}.LGwnxb span,.LGwnxb div{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:auto}See more</value>
+      <webElementGuid>56e14252-f089-4426-af60-b30ed0f389f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Alh6id&quot;)/div[@class=&quot;erkvQe&quot;]/div[@class=&quot;OBMEnb&quot;]/ul[@class=&quot;G43f7e&quot;]/li[@class=&quot;sbct sbhl&quot;]/div[@class=&quot;eIPGRd&quot;]/div[@class=&quot;pcTkSc&quot;]</value>
+      <webElementGuid>cc4f6232-f39e-4b3e-bd94-c390dd71e6e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Alh6id']/div/div/ul/li[4]/div/div[2]</value>
+      <webElementGuid>e5d4f86e-f236-43b0-be56-913c2f7f30c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[3]/following::div[6]</value>
+      <webElementGuid>0097d7c6-d6b7-42bc-9822-f6e7321021e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See more'])[3]/following::div[8]</value>
+      <webElementGuid>bdc8e242-e76a-4d14-8bd8-6191a7be8766</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div/div[2]</value>
+      <webElementGuid>ef8f0cdc-1b51-44cb-be4c-c572511697b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;petstore demo.MagqMc .ZFiwCf{background-color:#fff;border:1px solid #dadce0;width:100%}.MagqMc.U48fD{padding:0;margin-top:16px}.MagqMc .Bi9oQd{display:none}.MagqMc{padding:0}.MagqMc:hover .LGwnxb{color:#202124}.sOmPcf .ZFiwCf{background-color:#fafafa}.U48fD{-webkit-tap-highlight-color:transparent;cursor:pointer;display:block;line-height:18px;text-overflow:ellipsis;white-space:nowrap;padding:16px;padding-top:0;margin-top:24px;position:relative}.U48fD.df13ud{margin-top:16px}.U48fD.TOQyFc{margin-top:0}.U48fD.p8FEIf{padding-bottom:0}.jRKCUd::before{bottom:12px;content:&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;;left:16px;position:absolute;right:16px;top:-4px}a.jRKCUd:hover{text-decoration:none}.ZFiwCf{display:flex;align-items:center;justify-content:center;position:relative;margin:0 auto;font-size:14px;font-family:arial,sans-serif;font-weight:400;width:300px;height:36px;border-radius:18px;background-color:#f1f3f4}.TQc1id .ZFiwCf{width:unset}.ZFiwCf:hover{background-color:#fafafa}.Bi9oQd{background-color:#dadce0;margin-top:18px;position:absolute;border:0;height:1px;left:0;width:100%}.TQc1id .Bi9oQd{display:none}.kC8B4e .Bi9oQd{display:none}.w2fKdd svg{width:auto}.w2fKdd{color:#70757a}.LGwnxb{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:auto;padding-left:0;padding-right:8px;max-width:200px;color:#202124}.LGwnxb:empty{padding-right:0}.LGwnxb span,.LGwnxb div{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:auto}See more&quot;) or . = concat(&quot;petstore demo.MagqMc .ZFiwCf{background-color:#fff;border:1px solid #dadce0;width:100%}.MagqMc.U48fD{padding:0;margin-top:16px}.MagqMc .Bi9oQd{display:none}.MagqMc{padding:0}.MagqMc:hover .LGwnxb{color:#202124}.sOmPcf .ZFiwCf{background-color:#fafafa}.U48fD{-webkit-tap-highlight-color:transparent;cursor:pointer;display:block;line-height:18px;text-overflow:ellipsis;white-space:nowrap;padding:16px;padding-top:0;margin-top:24px;position:relative}.U48fD.df13ud{margin-top:16px}.U48fD.TOQyFc{margin-top:0}.U48fD.p8FEIf{padding-bottom:0}.jRKCUd::before{bottom:12px;content:&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;;left:16px;position:absolute;right:16px;top:-4px}a.jRKCUd:hover{text-decoration:none}.ZFiwCf{display:flex;align-items:center;justify-content:center;position:relative;margin:0 auto;font-size:14px;font-family:arial,sans-serif;font-weight:400;width:300px;height:36px;border-radius:18px;background-color:#f1f3f4}.TQc1id .ZFiwCf{width:unset}.ZFiwCf:hover{background-color:#fafafa}.Bi9oQd{background-color:#dadce0;margin-top:18px;position:absolute;border:0;height:1px;left:0;width:100%}.TQc1id .Bi9oQd{display:none}.kC8B4e .Bi9oQd{display:none}.w2fKdd svg{width:auto}.w2fKdd{color:#70757a}.LGwnxb{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:auto;padding-left:0;padding-right:8px;max-width:200px;color:#202124}.LGwnxb:empty{padding-right:0}.LGwnxb span,.LGwnxb div{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:auto}See more&quot;))]</value>
+      <webElementGuid>f0f436da-d069-4d89-a150-bc83534e8667</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

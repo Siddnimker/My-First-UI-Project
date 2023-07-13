@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_studio tutorial</name>
+   <tag></tag>
+   <elementGuidId>263c508f-a979-4eca-9bf1-ac1cf46e61b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#sBQTL > div.wM6W7d > span > b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sBQTL']/div/span/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>04c776c9-1010-43c4-b09b-b0f2d611cd38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> studio tutorial</value>
+      <webElementGuid>3ffb1eab-244c-4eb3-a1fe-ad8a189bf55f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sBQTL&quot;)/div[@class=&quot;wM6W7d&quot;]/span[1]/b[1]</value>
+      <webElementGuid>181d2690-442e-4ec2-aed8-8d4483c22465</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sBQTL']/div/span/b</value>
+      <webElementGuid>22f40b2a-067c-4c21-8a71-bbeb03c1d329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[4]/following::b[1]</value>
+      <webElementGuid>30d9b029-509f-47dc-b2bd-44c2dd18fffd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video game'])[1]/preceding::b[1]</value>
+      <webElementGuid>41e5f0e6-3781-4614-a707-15be1fd6fdda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See more'])[5]/preceding::b[1]</value>
+      <webElementGuid>6b523a49-0866-4154-8712-12d77a1c864b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='studio tutorial']/parent::*</value>
+      <webElementGuid>ff73fb89-6d91-46a0-82ea-c7215c70d83b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/div/div[2]/div/div/span/b</value>
+      <webElementGuid>ffff5a78-258a-4891-a4ed-f5ed28f7666e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = ' studio tutorial' or . = ' studio tutorial')]</value>
+      <webElementGuid>cd19d2a7-1fd9-4d01-9e2f-b04efcccd1a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
